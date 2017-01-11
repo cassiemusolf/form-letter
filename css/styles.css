@@ -1,5 +1,11 @@
+
 p {
   border: solid black;
   margin-top: 15px;
   padding: 10px;
+}
+
+
+#story {
+  display: none;
 }
